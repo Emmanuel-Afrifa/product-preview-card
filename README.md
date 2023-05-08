@@ -18,8 +18,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ![Screenshot of the webpage](./images/Web%20capture_8-5-2023_95522_127.0.0.1.jpeg)
 
 ### Links
-- [Github repository](#)
-- [Deployed site](#)
+- [Github repository](https://github.com/Emmanuel-Afrifa/product-preview-card)
+- [Deployed site](https://product-preview-frontend-sol.netlify.app/)
 
 ## Process
 ### Tools Used
